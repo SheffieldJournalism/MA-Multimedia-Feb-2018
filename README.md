@@ -7,3 +7,5 @@
 [https://sheffieldjournalism.github.io/Plogging-2/](https://sheffieldjournalism.github.io/Plogging-2/)
 
 [https://sheffieldjournalism.github.io/Beer-Matters/](https://sheffieldjournalism.github.io/Beer-Matters/)
+
+[https://sheffieldjournalism.github.io/From-Suffrage-to-Strikes/](https://sheffieldjournalism.github.io/From-Suffrage-to-Strikes/)
