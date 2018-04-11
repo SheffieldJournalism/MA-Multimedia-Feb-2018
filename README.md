@@ -8,4 +8,4 @@
 
 [https://sheffieldjournalism.github.io/Beer-Matters/](https://sheffieldjournalism.github.io/Beer-Matters/)
 
-[https://sheffieldjournalism.github.io/From-Suffrage-to-Strikes/](https://sheffieldjournalism.github.io/From-Suffrage-to-Strikes/)
+
